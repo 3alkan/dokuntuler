@@ -1,1 +1,1 @@
-[website](3alkan.github.io/dokuntuler)
+[website](https://3alkan.github.io/dokuntuler)
