@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/dokuntuler/sitemap.xml
+Sitemap: https://3alkan.github.io/dokuntuler/sitemap.xml

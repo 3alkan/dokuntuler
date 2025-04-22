@@ -16,6 +16,11 @@ summaryLength = 30
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowShareButtons = true
+  ShowDate = true
+  ShowTags = true
+  ShowCategories = true
   defaultTheme = "auto"  # light | dark | auto
   hideFooter = false
 
