@@ -1,4 +1,42 @@
-baseURL = 'https://3alkan.github.io/'
-languageCode = 'tr'
-title = 'Döküntüler'
-theme='PaperMod'
+baseURL = "https://3alkan.github.io/dokuntuler/"
+title = "Döküntüler"
+languageCode = "tr"
+defaultContentLanguage = "tr"
+theme = "PaperMod"
+enableRobotsTXT = true
+pagination.pagerSize = 10
+summaryLength = 30
+
+[params]
+  env = "production"  # production | development
+  title = "Döküntüler"
+  description = "Benliğimden dökülenler..."
+  author = "Mustafa Alkan"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"  # light | dark | auto
+  hideFooter = false
+
+  # Sosyal bağlantılar
+  socialIcons = [
+    { name = "github", url = "https://github.com/3alkan" },
+    { name = "instagram", url = "https://instagram.com/3alkan" }
+  ]
+
+[menu]
+  [[menu.main]]
+    name = "Yazılar"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Hakkımda"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Etiketler"
+    url = "/tags/"
+    weight = 3
