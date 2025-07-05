@@ -1,15 +1,16 @@
 +++
-date = '2025-04-22T15:05:32+03:00'
-draft = false
-title = 'Üç Şey'
+title            = "Üç Şey"
+date             = ""
+lastmod          = ""
+draft            = false
+description      = "üç temel unsur"
+tags             = [ "üç şey" ]
+categories       = [ "Tümü" ]
+author           = "Mustafa Alkan"
 +++
-**BEN**
 
-**SEN**
-
-**BİZ**
-
----
-
-*Yayın tarihi: 22.04.2025*  
-*Son güncelleme: -*
+**BEN**  
+  
+**SEN**  
+  
+**BİZ**  

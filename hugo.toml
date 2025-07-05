@@ -20,7 +20,8 @@ enableRobotsTXT = true
   ShowWordCount = true
   defaultTheme = "auto"
   hideFooter = false
-  showtoc = true
+  disableAnchoredHeadings = true
+  disableSpecial1stPost = true
   socialIcons = [
     { name = "github", url = "https://github.com/3alkan" },
     { name = "instagram", url = "https://instagram.com/3alkan" }
@@ -37,8 +38,9 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    identifier = "about"
     name = "Hakkımda"
-    url = "/about/"
+    pageRef = "/about"
     weight = 2
 
   [[menu.main]]
@@ -47,8 +49,13 @@ enableRobotsTXT = true
     weight = 3
 
   [[menu.main]]
+    name = "Kategoriler"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.main]]
     name = "Ara"
-    pageref = "page/search"
+    pageref = "/search"
     weight = 99
 
 

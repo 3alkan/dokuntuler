@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://3alkan.github.io/dokuntuler/</loc>
-    <lastmod>2025-04-22T15:05:32+03:00</lastmod>
+    <loc>http://localhost:1313/dokuntuler/search/</loc>
   </url><url>
-    <loc>https://3alkan.github.io/dokuntuler/posts/</loc>
-    <lastmod>2025-04-22T15:05:32+03:00</lastmod>
+    <loc>http://localhost:1313/dokuntuler/</loc>
   </url><url>
-    <loc>https://3alkan.github.io/dokuntuler/posts/uc-sey/</loc>
-    <lastmod>2025-04-22T15:05:32+03:00</lastmod>
+    <loc>http://localhost:1313/dokuntuler/about/</loc>
   </url><url>
-    <loc>https://3alkan.github.io/dokuntuler/posts/first/</loc>
-    <lastmod>2025-04-22T01:16:28+03:00</lastmod>
+    <loc>http://localhost:1313/dokuntuler/categories/</loc>
   </url><url>
-    <loc>https://3alkan.github.io/dokuntuler/categories/</loc>
+    <loc>http://localhost:1313/dokuntuler/tags/</loc>
   </url><url>
-    <loc>https://3alkan.github.io/dokuntuler/tags/</loc>
+    <loc>http://localhost:1313/dokuntuler/categories/t%C3%BCm%C3%BC/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/posts/uc-sey/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/tags/%C3%BC%C3%A7-%C5%9Fey/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/posts/</loc>
   </url>
 </urlset>
