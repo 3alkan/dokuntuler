@@ -4,31 +4,31 @@ languageCode = "tr"
 defaultContentLanguage = "tr"
 theme = "PaperMod"
 enableRobotsTXT = true
-pagination.pagerSize = 10
-summaryLength = 30
 
 [params]
-  env = "production"  # production | development
+  env = "production"
   title = "Döküntüler"
-  description = "Benliğimden dökülenler..."
+  description = "Benliğimden dökülenler…"
+  keywords = ["blog"]
   author = "Mustafa Alkan"
+  hideMeta = false           # show all metadata
   ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
-  ShowCodeCopyButtons = true
   ShowWordCount = true
-  ShowShareButtons = true
-  ShowDate = true
-  ShowTags = true
-  ShowCategories = true
-  defaultTheme = "auto"  # light | dark | auto
+  defaultTheme = "auto"
   hideFooter = false
-
-  # Sosyal bağlantılar
+  showtoc = true
   socialIcons = [
     { name = "github", url = "https://github.com/3alkan" },
     { name = "instagram", url = "https://instagram.com/3alkan" }
   ]
+
+
+[pagination]
+  pagerSize = 10
 
 [menu]
   [[menu.main]]
@@ -45,3 +45,12 @@ summaryLength = 30
     name = "Etiketler"
     url = "/tags/"
     weight = 3
+
+  [[menu.main]]
+    name = "Ara"
+    pageref = "page/search"
+    weight = 99
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
