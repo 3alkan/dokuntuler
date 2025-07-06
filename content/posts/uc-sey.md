@@ -4,8 +4,8 @@ date             = ""
 lastmod          = ""
 draft            = false
 description      = "üç temel unsur"
-tags             = [ "üç şey" ]
-categories       = [ "Tümü" ]
+tags             = [ "üç şey","mustafa alkan"]
+categories       = [ "Genel" ]
 author           = "Mustafa Alkan"
 +++
 

@@ -8,4 +8,5 @@ showBreadcrumbs=false
 hideMeta=true
 +++
 
-Merhaba! Ben Mustafa Alkan…
+Yazmayı seviyorum. Benliğimden dökülenleri de burada paylaşıyorum...
+

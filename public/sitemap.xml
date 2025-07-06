@@ -2,22 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dokuntuler/search/</loc>
-  </url><url>
     <loc>http://localhost:1313/dokuntuler/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dokuntuler/about/</loc>
+    <loc>http://localhost:1313/dokuntuler/categories/d%C3%B6k%C3%BCnt%C3%BCler/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dokuntuler/categories/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/tags/mustafa-alkan/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dokuntuler/tags/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dokuntuler/categories/t%C3%BCm%C3%BC/</loc>
+    <loc>http://localhost:1313/dokuntuler/posts/yasamak/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/tags/ya%C5%9Famak/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/posts/</loc>
+    <lastmod>2021-07-18T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/categories/genel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dokuntuler/about/</loc>
   </url><url>
     <loc>http://localhost:1313/dokuntuler/posts/uc-sey/</loc>
   </url><url>
     <loc>http://localhost:1313/dokuntuler/tags/%C3%BC%C3%A7-%C5%9Fey/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dokuntuler/posts/</loc>
   </url>
 </urlset>

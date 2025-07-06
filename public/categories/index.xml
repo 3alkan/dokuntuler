@@ -6,12 +6,20 @@
     <description>Recent content in Kategoriler on Döküntüler</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>tr</language>
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/dokuntuler/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tümü</title>
-      <link>http://localhost:1313/dokuntuler/categories/t%C3%BCm%C3%BC/</link>
+      <title>Döküntüler</title>
+      <link>http://localhost:1313/dokuntuler/categories/d%C3%B6k%C3%BCnt%C3%BCler/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/dokuntuler/categories/d%C3%B6k%C3%BCnt%C3%BCler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genel</title>
+      <link>http://localhost:1313/dokuntuler/categories/genel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dokuntuler/categories/t%C3%BCm%C3%BC/</guid>
+      <guid>http://localhost:1313/dokuntuler/categories/genel/</guid>
       <description></description>
     </item>
   </channel>
